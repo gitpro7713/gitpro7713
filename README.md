@@ -52,5 +52,5 @@ Passionate about mastering new technologies, I stay on the edge of innovation â€
       <br>MySQL
     </td>
   </tr>
-</table>
+</table>   
 

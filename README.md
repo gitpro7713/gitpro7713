@@ -54,4 +54,4 @@ Passionate about mastering new technologies, I stay on the edge of innovation â€
   </tr>
 </table>
 
-st
+s

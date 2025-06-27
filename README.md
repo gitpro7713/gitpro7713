@@ -1,11 +1,11 @@
 
-<h1 align="left">Hi! I am a Senior Full Stack Engineer</h1>
+<h1 align="left">👋 Hi! I am Dusan, a senior full stack developer</h1>
 
-Passionate about exploring and mastering the latest web and mobile development technologies, I thrive on crafting robust and scalable solutions. With a track record of successfully creating end-to-end applications for big companies, I've navigated challenges in environments with over 100,000 simultaneous accesses.
+I’m a senior full-stack developer with over a decade of experience turning complex ideas into high-performance web and mobile applications.
 
-Driven by a love for continuous learning, I am dedicated to staying at the forefront of the ever-evolving tech landscape. My commitment to excellence is reflected in my work, and I find immense satisfaction in bringing innovative ideas to life through programming.
+I specialize in building scalable, end-to-end systems and have delivered solutions for enterprise-level platforms with 100K+ concurrent users. My focus is on writing clean, maintainable code and crafting resilient architectures that grow with the product.
 
-"There are far, far better things ahead than any we leave behind." - C.S. Lewis
+Passionate about mastering new technologies, I stay on the edge of innovation — whether it’s modern JavaScript frameworks, backend services, or cloud infrastructure. I thrive in challenging environments and love creating software that’s both elegant and impactful.
 
 
 
@@ -16,8 +16,8 @@ Driven by a love for continuous learning, I am dedicated to staying at the foref
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="./.github/images/javascript.png" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
+      <img src="./.github/images/python.png" width="48" height="48" alt="JavaScript" />
+      <br>Python
     </td>
     <td align="center" width="96">
       <img src="./.github/images/typescript.png" width="48" height="48" alt="TypeScript" />
@@ -44,8 +44,8 @@ Driven by a love for continuous learning, I am dedicated to staying at the foref
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="./.github/images/popos.png" width="48" height="48" alt="Pop OS" />
-      <br>Pop OS
+      <img src="./.github/images/next.js.png" width="48" height="48" alt="Pop OS" />
+      <br>Next JS
     </td>
     <td align="center" width="96">
       <img src="./.github/images/mysql.png" width="48" height="48" alt="MySQL" />

@@ -44,7 +44,7 @@ Passionate about mastering new technologies, I stay on the edge of innovation â€
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="./.github/images/next.js.png" width="48" height="48" alt="Pop OS" />
+      <img src="./.github/images/Next.js.png" width="48" height="48" alt="Pop OS" />
       <br>Next JS
     </td>
     <td align="center" width="96">

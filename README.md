@@ -6,7 +6,6 @@
       <span>I’m a senior full-stack developer with over a decade of experience turning complex ideas into high-performance web and mobile applications.
 
 I specialize in building scalable, end-to-end systems and have delivered solutions for enterprise-level platforms with 100K+ concurrent users. My focus is on writing clean, maintainable code and crafting resilient architectures that grow with the product.
-
 Passionate about mastering new technologies, I stay on the edge of innovation — whether it’s modern JavaScript frameworks, backend services, or cloud infrastructure. I thrive in challenging environments and love creating software that’s both elegant and impactful.</span>
     </h4>
 </span>
